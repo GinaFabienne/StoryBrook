@@ -28,7 +28,7 @@
   --bs-white: #fff;
   --bs-gray: #868e96;
   --bs-gray-dark: #373a3c;
-  --bs-gray-100: #f8f9fa;
+  --bs-gray-100: #faf8f8;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
   --bs-gray-400: #ced4da;
@@ -43,7 +43,7 @@
   --bs-info: #9954bb;
   --bs-warning: #ff7518;
   --bs-danger: #ff0039;
-  --bs-light: #f8f9fa;
+  --bs-light: #faf8f8;
   --bs-dark: #373a3c;
   --bs-primary-rgb: 39, 128, 227;
   --bs-secondary-rgb: 55, 58, 60;
@@ -76,7 +76,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #2780e3;
+  --bs-link-color: #0d3e76;
   --bs-link-hover-color: #1f66b6;
   --bs-code-color: #e83e8c;
   --bs-highlight-bg: #ffe3d1;
